@@ -12,7 +12,7 @@ $config['menu_choices'] = array(
         array('name' => 'Foxtrot', 'link' => '#'),
         array('name' => 'Golf', 'link' => '#'),
         array('name' => 'Hotel', 'link' => '#'),
-        array('name' => 'India', 'link' => '#'),
+        array('name' => 'India', 'link' => '/India'),
         array('name' => 'Juliet', 'link' => '#'),
         array('name' => 'Kilo', 'link' => '#'),
         )
