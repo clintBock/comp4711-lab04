@@ -14,7 +14,7 @@ $config['menu_choices'] = array(
         array('name' => 'Hotel', 'link' => '#'),
         array('name' => 'India', 'link' => '/India'),
         array('name' => 'Juliet', 'link' => '#'),
-        array('name' => 'Kilo', 'link' => '#'),
+        array('name' => 'Kilo', 'link' => '/welcome/show/2'),
         )
     );
 
