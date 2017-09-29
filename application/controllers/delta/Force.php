@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Alpha extends Application
+class Force extends Application
 {
 
 	function __construct()
@@ -14,7 +14,7 @@ class Alpha extends Application
 	 */
 	public function index()
 	{
-		$this->show(1);
+		$this->show(4);
 	}
 
 }
