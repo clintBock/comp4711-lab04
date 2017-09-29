@@ -10,11 +10,11 @@ $config['menu_choices'] = array(
         array('name' => 'Delta', 'link' => '/Delta/force'),
         array('name' => 'Echo', 'link' => '/echo/must/wehave'),
         array('name' => 'Foxtrot', 'link' => '/Foxtrot'),
-        array('name' => 'Golf', 'link' => '#'),
+        array('name' => 'Golf', 'link' => '/i/need/a/hobby'),
         array('name' => 'Hotel', 'link' => '#'),
-        array('name' => 'India', 'link' => '#'),
+        array('name' => 'India', 'link' => '/India'),
         array('name' => 'Juliet', 'link' => '#'),
-        array('name' => 'Kilo', 'link' => '#'),
+        array('name' => 'Kilo', 'link' => '/welcome/show/2'),
         )
     );
 
