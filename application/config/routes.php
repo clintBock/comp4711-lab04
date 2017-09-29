@@ -52,9 +52,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 $route['default_controller'] = 'welcome';
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
-
+$route['Foxtrot'] = 'tango';
 // Issue #11 (Kilo)
 $route['show/(:any)'] = 'welcome/show/$1';
-
 // Issue #7 (Golf)
 $route['i/(.*)'] = 'golf';
+
